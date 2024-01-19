@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Marcelo Gutiérrez</h1>
-<h3 align="center">Un apasionado front-end developer de Chile</h3>
+<h3 align="center">Front-end developer de Chile</h3>
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
